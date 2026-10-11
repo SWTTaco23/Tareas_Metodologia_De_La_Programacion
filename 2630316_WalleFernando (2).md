@@ -6,7 +6,7 @@
 
 **Asignatura:** Metodología de la programación  
 
-**Fecha:** 7 de octubre del 2026
+**Fecha:** 11 de octubre del 2026
 
 ## 1. Conceptos básicos
 
