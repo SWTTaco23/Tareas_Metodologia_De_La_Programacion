@@ -447,8 +447,6 @@ No existe una configuración adecuada para todos los robots porque cada aplicaci
 
 ## Referencias
 
-Se indica **s. f.** cuando no se identificó una fecha de publicación. Algunas fuentes están en inglés porque corresponden a documentación técnica directa de fabricantes y proyectos de robótica.
-
 1. **WPILib.** **Cinemática de accionamiento diferencial**. 2023.  
 
    https://docs.wpilib.org/es/2023/docs/software/kinematics-and-odometry/differential-drive-kinematics.html

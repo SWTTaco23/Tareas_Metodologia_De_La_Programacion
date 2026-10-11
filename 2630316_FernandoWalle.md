@@ -6,7 +6,7 @@
 
 **Asignatura:** Metodologia de la programacion  
 
-**Fecha:** 7 de octubre del 2026
+**Fecha:** 11 de octubre del 2026
 
 ## 1. Conceptos básicos
 
@@ -215,7 +215,6 @@ El servomotor me pareció el actuador más interesante porque puede ajustar su p
 
 ## Referencias
 
-Se indica **s. f.** cuando no se identificó una fecha de publicación. Las fuentes siguientes están disponibles en español.
 
 1. **ifm electronic.** **Tecnología de medición de temperatura**. s. f.  
 
